@@ -218,6 +218,7 @@ span{
     }
     nav .hamb{
         display: initial;
+        height: 10px;
     }
     .click{
         top: 46px;
@@ -238,7 +239,7 @@ span{
         transform: rotate(40deg);
     }
     nav .nav-list{
-        height: 70%;
+        height: 40%;
         width: 60%;
         padding: 6% 9%;
         top: 90px;
